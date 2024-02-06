@@ -11,12 +11,12 @@ conda activate mlproj
 pip install -r requirements.txt
 
 ## Project Workflow:
-update config.yaml (inside config directory)
-update schema.yaml
-update params.yaml (to initialize our model, add parameters in this file.)
-update the entity
-update the configuration manager in src config (configuration.py)
-update the components
-update the pipeline
-update the main.py
-update the app.py
+1) update config.yaml (inside config directory)
+2) update schema.yaml
+3) update params.yaml (to initialize our model, add parameters in this file.)
+4) update the entity
+5) update the configuration manager in src config (configuration.py)
+6) update the components
+7) update the pipeline
+8) update the main.py
+9) update the app.py
